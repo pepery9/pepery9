@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-你好，我是pepery9:smile:
+你好，我是pepery9 :smile:
 
 目前工作：通用软件开发工程师
 
